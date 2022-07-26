@@ -7,10 +7,10 @@ App to simulate simplified banking process. I use the knowledge acquired during 
 
 <br></br>
 ## Illustrative UML chart
-![MiniBankingAppChart](https://user-images.githubusercontent.com/77989461/177975760-641b37e3-6c36-47b7-9ead-15810f49b4db.png)
+![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/181007024-bf964eea-50bc-43a9-bd30-2430c5435b65.png)
 
 <br></br>
-## Recorded test
+## Recorded test of the app
 https://user-images.githubusercontent.com/77989461/177966250-f080aced-dc92-42a0-812d-9c7a54848956.mp4
 
 
