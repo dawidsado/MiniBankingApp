@@ -21,7 +21,7 @@ There are three different types of users (they have different possibilities, e.g
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br></br>
 <br></br>
-## •	LET’S TAKE A LOOK AT THE CODE 💻
+## •	LET’S TAKE A LOOK AT THE CODE 🧐
 Class BankAccount implements the AccountOperations interface, which enables to: check balances, make transfers, and deposits.  
 BankAccount has information about the balance (default it is 0) and the transaction list assigned to the account. In case of incorrect data given to transfer I created the AccountOperationException.
 ### •	BankAccount 👇
