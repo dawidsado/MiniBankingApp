@@ -9,6 +9,14 @@ The simple banking system simulates the process of operations such as account ba
 There are three different types of users (they have different possibilities, e.g. Admin has the widest range of them and User the most narrow one). 
 
 <br></br>
+<br></br>
+
+## •	UML DIAGRAM 📈
+
+![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/181246948-68652d6c-61fb-4fe1-a74c-6dddaef1209d.png)
+
+<br></br>
+<br></br>
 
 ## •	TECHNOLOGY THAT I USED 🚀
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
