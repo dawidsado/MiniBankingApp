@@ -93,7 +93,7 @@ https://user-images.githubusercontent.com/77989461/181245642-049eec23-36ca-49e4-
 ## •	WHAT HAD I PRACTICED DURING THAT PROJECT? 🤔
 - Working with interfaces, subclass constructors, abstract   and inheritance classes 
 
-- For loop and initialization block 
+- For loops and initialization block 
 
 - More practical use of lists 
 
