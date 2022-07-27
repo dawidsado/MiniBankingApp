@@ -2,7 +2,8 @@
 
 
 ## •	ABOUT
-I used my knowledge acquired during the first year of studies about Java fundamentals and executed tasks from programming classes.
+I used my knowledge acquired during the first year of studies about Java fundamentals and executed tasks from programming classes. (Project-based on tasks from OPP classes at PJAIT).
+
 
 The simple banking system simulates the process of operations such as account balance check, transfer, deposit, generating an individual password for users, and creating credit cards.
 
@@ -108,8 +109,3 @@ https://user-images.githubusercontent.com/77989461/181245642-049eec23-36ca-49e4-
 - Use of Date class 
 
 - Implementation of methods like hashCode and valueOf 
-
-
-
-
-
