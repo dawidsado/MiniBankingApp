@@ -51,7 +51,9 @@ Class Transaction represent bank transactions. There is information about the su
 The user class has a first name and last name attributes and a constructor. 
 There are three types of users (3 classes). 
 1.	Client - has assigned account (in general-id of users is generated automatically), is able to use operations from the account. (super constructor and implementation of interface). 
+
 2.	Employee - is able to add new clients and open a new account. 
+
 3.	Admin – also can add new clients, additionally can add, and remove employees. 
 ### • User 👇
 
