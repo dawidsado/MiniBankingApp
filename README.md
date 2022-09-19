@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/77989461/181245642-049eec23-36ca-49e4-
 <br></br>
 
 ## •	WHAT HAD I PRACTICED DURING THAT PROJECT? 🤔
-- Working with interfaces, subclass constructors, abstract   and inheritance classes 
+- Working with interfaces, subclass constructors, abstract and inheritance classes 
 
 - For loops and initialization block 
 
